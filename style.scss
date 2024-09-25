@@ -1,0 +1,37 @@
+
+h1{
+   
+     color: red; 
+}
+
+.div1{
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
+.div1{
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+}
+
+#titulo{
+    color: chocolate;
+}
+.titulo{
+    color: blue;
+}
+
+section{
+    border: solid 2px violet;
+    .div2{
+       background-color: aquamarine;
+       p{
+        color: red;    
+       }
+    }
+}
+
+*{
+  color: chartreuse;  
+}
